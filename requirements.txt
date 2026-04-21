@@ -1,6 +1,7 @@
-ultralytics
 flask
-opencv-python
-torch
 gunicorn
+ultralytics
+opencv-python-headless
+torch
+torchvision
 numpy
